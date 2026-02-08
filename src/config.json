@@ -1,0 +1,12 @@
+{
+  "app_name": "skp-workflow-kit",
+  "version": "2.1.0",
+  "environment": "production",
+  "modules": ["core", "utils", "export", "backup"],
+  "settings": {
+    "quality": "high",
+    "threads": 4,
+    "timeout": 30,
+    "formats": ["obj", "fbx", "dae", "stl"]
+  }
+}
