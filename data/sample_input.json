@@ -1,0 +1,22 @@
+{
+  "project": "ModernHouse_v2",
+  "source_files": [
+    "C:/Models/House/exterior.skp",
+    "C:/Models/House/interior.skp"
+  ],
+  "export_settings": {
+    "format": "obj",
+    "include_textures": true,
+    "triangulate": false
+  },
+  "validation_rules": {
+    "check_manifold": true,
+    "check_duplicates": true,
+    "max_polygon_count": 100000
+  },
+  "metadata": {
+    "client": "Architecture Studio",
+    "date": "2025-02-08",
+    "version": "2.1"
+  }
+}
